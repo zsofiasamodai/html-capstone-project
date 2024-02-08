@@ -1,4 +1,37 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
 }
 
+h1{
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: steelblue;
+    border-bottom: 2px;
+    border-bottom-style:solid;
+    border-radius: 15%;
+    border-width: 0.3cap;
+    text-align: center;
+}
+
+h2{
+    background-color:steelblue;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: whitesmoke;
+}
+
+p{
+    text-align: justify;
+
+}
+
+footer{
+    font-weight:lighter ;
+}
