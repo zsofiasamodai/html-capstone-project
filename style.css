@@ -1,6 +1,7 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
+    background-color: #FEFBF6;
 }
 
 h1{
@@ -9,16 +10,14 @@ h1{
     padding-right: 10px;
     padding-top: 7px;
     padding-bottom: 7px;
-    color: steelblue;
-    border-bottom: 2px;
-    border-bottom-style:solid;
-    border-radius: 15%;
-    border-width: 0.3cap;
+    border-radius: 3pt;
+    color: #FEFBF6;
     text-align: center;
+    background-color: #ECB159;
 }
 
 h2{
-    background-color:steelblue;
+    background-color: #8CB9BD;;
     font-size: 18px;
     padding-left: 10px;
     padding-right: 10px;
@@ -30,8 +29,23 @@ h2{
 p{
     text-align: justify;
 
+
+}
+
+button{
+    height: 30px;
+    border: 0pt;
+    border-radius: 20px;
+    background-color: #ECB159;
+    color: #FEFBF6;
+    font-weight: bold;
 }
 
 footer{
-    font-weight:lighter ;
+    font-weight:350 ;
+    background-color: #8CB9BD;
+    color: #FEFBF6;
+    text-align: center;
+    padding: 10px;
 }
+
